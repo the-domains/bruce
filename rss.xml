@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bruce]]></title>
+        <description><![CDATA[bruce]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 30 Oct 2015 17:09:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started with The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started with The Grid</h1><p>a little introduction - kicking off a new platform, one where I'll share tidbits on travel and building a Lifestyle business.</p></article>]]></description>
+            <link>undefinedgetting-started-with-the-grid/index.html</link>
+            <guid isPermaLink="false">87f66a73-2809-4ae2-8a64-52743cf6376e</guid>
+            <pubDate>Fri, 30 Oct 2015 17:09:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
