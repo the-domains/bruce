@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[bruce]]></title>
         <description><![CDATA[bruce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bruce/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 17:09:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 30 Oct 2015 17:18:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bruce/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Walk Down St. Laurent Blvd., Montreal]]></title>
+            <description><![CDATA[<article><h1>A Walk Down St. Laurent Blvd., Montreal</h1><p>Baharak and I like to pick a neighbourhood, somewhere in and around our hometown of Montreal, and spend the day like a tourist. We explore, wander, try a coffee shop or pub and spend an afternoon getting to know a local spot. Last week we decided on a visit to one of Montreal's most famous streets, St.</p><img src="http://i2.wp.com/greatletsgo.com/wp-content/uploads/2015/08/StLaurentWalk-1-2.jpg?resize=600%2C854"></article>]]></description>
+            <link>http://greatletsgo.com/a-walk-down-st-laurent-blvd-montreal/</link>
+            <guid isPermaLink="false">1a47c5ed-e288-4b4f-8391-2a28e06f9a80</guid>
+            <pubDate>Fri, 30 Oct 2015 17:17:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started with The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started with The Grid</h1><p>a little introduction - kicking off a new platform, one where I'll share tidbits on travel and building a Lifestyle business.</p></article>]]></description>
-            <link>undefinedgetting-started-with-the-grid/index.html</link>
+            <link>https://thegrid.ai/bruce/getting-started-with-the-grid/index.html</link>
             <guid isPermaLink="false">87f66a73-2809-4ae2-8a64-52743cf6376e</guid>
             <pubDate>Fri, 30 Oct 2015 17:09:08 GMT</pubDate>
         </item>
